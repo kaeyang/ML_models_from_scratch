@@ -8,3 +8,4 @@ While learning about machine learning algorithms, I wanted to build them from sc
 - Random Forest
 - Adaptive Boosting(AdaBoost)
 - Gradient boosting trees
+- Kmeans clustering
